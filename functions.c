@@ -1,5 +1,5 @@
 #include "functions.h"
-
+//hello
 //Hàm nhập tên khách hàng
 void nhapTenKH(char name[100]){
     printf("Nhap ten khach hang: ");
